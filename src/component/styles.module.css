@@ -11,7 +11,7 @@
 }
 
 .msw-toolbar {
-  @apply fixed inset-x-0 z-50 flex p-2 bg-gray-100 overflow-hidden transition;
+  @apply fixed inset-x-0 z-[9999] flex p-2 bg-gray-100 overflow-hidden transition;
 }
 
 .msw-toolbar[data-position='top'] {
